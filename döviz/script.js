@@ -9,7 +9,7 @@ var sifre = document.getElementById('sifre').value;
 var yatirim = document.getElementById('yatirim').value;
 
 
-if(kullanici=="fatma" && sifre==1234)
+if(kullanici=="ftm123" && sifre==1234)
 {
     alert('başarılı bir şekilde giriş yaptınız:'); 
 }
